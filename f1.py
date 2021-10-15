@@ -5,8 +5,8 @@ Spyder Editor
 This is a temporary script file.
 """
 
-print("Приветусики")
-print("Я Серёжа")
+print("Привет")
+print("Я Николай")
 print("Кеса")
 print("Изменяю ещё")
 print('Hello world!')
