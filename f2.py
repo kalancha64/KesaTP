@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Feb 26 21:46:15 2021
+Created on Sun Sep 18 18:05:36 2021
 
-@author: Sergey
+@author: Nikolay
 """
 
 print("Кеса")
